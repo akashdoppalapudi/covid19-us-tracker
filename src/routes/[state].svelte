@@ -1,7 +1,7 @@
 <script context="module">
     export async function preload(page) {
         return {
-            state: page.params['state']
+            state: page.params["state"]
         };
     }
 </script>
